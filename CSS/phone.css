@@ -1,0 +1,59 @@
+body{
+    background-color: peachpuff;
+    margin-left: 100px;
+}
+
+ul{
+    margin-left: 800px;
+    margin-top: -50px;
+}
+
+    
+li{
+    display: inline;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.bellish{
+    font-size: 100px;
+    width: 100px;
+}
+
+.phone{
+    margin-left: 700px;
+    margin-top: -40px;
+}
+
+.Free{
+    margin-top: -200px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+.heading{
+    width: 430px;
+    margin-top: -600px;
+    margin-left: 30px;
+}
+
+.button{
+    border-radius: 200px;
+    height: 50px;
+    width: 300px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.first{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* main{
+    background-color: aquamarine;
+} */
